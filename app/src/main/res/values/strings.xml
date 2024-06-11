@@ -1,5 +1,11 @@
 <resources>
     <string name="app_name">Song Gallery</string>
+    <string-array name="Filter_By">
+        <item>מיין לפי</item>
+        <item>album</item>
+        <item>artist</item>
+        <item>track</item>
+    </string-array>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
