@@ -53,20 +53,20 @@ public class Categories extends Fragment implements View.OnClickListener {
         if (nextCategory == view)
         {
             hsv.smoothScrollTo(hsv.getScrollX() - 1000, 0);
-            shirim.setVisibility(View.VISIBLE);
-            tfilot.setVisibility(View.VISIBLE);
-
-            chagim.setVisibility(View.INVISIBLE);
-            kriat_tora.setVisibility(View.INVISIBLE);
+//            shirim.setVisibility(View.VISIBLE);
+//            tfilot.setVisibility(View.VISIBLE);
+//
+//            chagim.setVisibility(View.INVISIBLE);
+//            kriat_tora.setVisibility(View.INVISIBLE);
         }
         if (previousCategory == view)
         {
             hsv.smoothScrollTo(hsv.getScrollX() + 1000, 0);
-            shirim.setVisibility(View.INVISIBLE);
-            tfilot.setVisibility(View.INVISIBLE);
-
-            chagim.setVisibility(View.VISIBLE);
-            kriat_tora.setVisibility(View.VISIBLE);
+//            shirim.setVisibility(View.INVISIBLE);
+//            tfilot.setVisibility(View.INVISIBLE);
+//
+//            chagim.setVisibility(View.VISIBLE);
+//            kriat_tora.setVisibility(View.VISIBLE);
         }
     }
 }

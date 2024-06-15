@@ -6,6 +6,32 @@
         <item>artist</item>
         <item>track</item>
     </string-array>
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="track_name">
+        <item>Time</item>
+        <item>Fairy Tale Remix</item>
+        <item>Cut Your Teeth</item>
+        <item>Into Your Arms</item>
+        <item>Leave A Smile</item>
+        <item>Ocean Drive</item>
+        <item>Lost Without You</item>
+        <item>Street Party</item>
+        <item>Bones</item>
+        <item>Echo</item>
+        <item>FlashBang Dance</item>
+    </string-array>
+
+    <string-array name="track_artist">
+        <item>Hans Zimmer</item>
+        <item>Alexander Rybak</item>
+        <item>Kygo, Kyla La Grange</item>
+        <item>Ava Max, Witt Lowry</item>
+        <item>Solar State, Moonshine, Twan Ray</item>
+        <item>Sole Sole</item>
+        <item>Dean Lewis, Kygo</item>
+        <item>צביקה ברנד, 242, אקסום</item>
+        <item>clarx, ncs</item>
+        <item>Yves V</item>
+        <item>nOthing, The Verkkars</item>
+    </string-array>
 </resources>
